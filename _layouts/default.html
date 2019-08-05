@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+    {% include head.html %}
+    <body id="page-top" class="index">
+    {% include nav.html %}
+    {% include header.html %}
+    {% include portfolio_grid.html %}
+    {% include project_map.html %}
+    {% include about.html %}
+    {% include blog_grid.html %}
+
+    {% include contact_static.html %}
+
+    {% include footer.html %}
+    {% include portfolio_modals.html %}
+    {% include js.html %}
+    {% include js_map.html %}
+
+    {% if site.google_analytics_tracker_id %}
+      {% include analytics.html %}
+    {% endif %}
+    <div class="skype-button bubble" data-contact-id="realtech.606"></div>
+    </body>
+    <script src="https://swc.cdn.skype.com/sdk/v1/sdk.min.js"></script>
+</html>
