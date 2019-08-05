@@ -1,9 +1,9 @@
 # Site settings
-title: Jay Liu
-email: soon.nerd@gmail.com
-url: http://p-mob2015.github.io
+title: Tanner Kozlowski
+email: tanner.kozlowski@gmail.com
+url: https://tannerkozlowski.github.io
 description: React - Node - RoR
-meta_author: Jay Liu
+meta_author: Tanner Kozlowski
 
 about:
   header: About
@@ -93,7 +93,7 @@ portfolio:
 footer:
   location-header: Location
   location: Mexico City, Mexico
-  copyright: Jay Liu. All Rights Reserved.
+  copyright: Tanner Kozlowski. All Rights Reserved.
   social: My Other Whereabouts
   new-thoughts: New Thoughts
 
